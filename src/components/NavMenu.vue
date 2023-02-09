@@ -1,3 +1,4 @@
+<!--
 <template>
   <nav>
     <RouterLink to="/">Home</RouterLink>
@@ -13,4 +14,4 @@ nav {
     @apply underline underline-offset-4;
   }
 }
-</style>
+</style> -->
